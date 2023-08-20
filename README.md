@@ -1,4 +1,4 @@
-# My_Codeforces_summer2023_analyses
+# My Codeforces Summer 2023 Analyses
 This is my first trial to deal data analytics. I gathered data from the submissions with two questions in mind. First one was: is it better to solve early in the morning or in the noon or maybe at night? 
 Whether it is better to solve in twos sessions per day or only one session? Results are in the readme. 
 
